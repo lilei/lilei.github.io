@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DigDeeper</title>
+  <subtitle>格物致知,追本溯源</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://lilei.github.io/"/>
+  <updated>2017-03-21T04:57:48.884Z</updated>
+  <id>http://lilei.github.io/</id>
+  
+  <author>
+    <name>lilei</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无聊的消遣</title>
+    <link href="http://lilei.github.io/2017/03/19/%E6%97%A0%E8%81%8A%E7%9A%84%E6%B6%88%E9%81%A3/"/>
+    <id>http://lilei.github.io/2017/03/19/无聊的消遣/</id>
+    <published>2017-03-19T08:26:27.000Z</published>
+    <updated>2017-03-21T04:57:48.884Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天鼓捣了半天vs 2017&lt;/p&gt;
+&lt;h2 id=&quot;弄了几个插件：&quot;&gt;&lt;a href=&quot;#弄了几个插件：&quot; class=&quot;headerlink&quot; title=&quot;弄了几个插件：&quot;&gt;&lt;/a&gt;弄了几个插件：&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;ConEmuIntegration&lt;/s
+    
+    </summary>
+    
+      <category term="technology" scheme="http://lilei.github.io/categories/technology/"/>
+    
+    
+      <category term="visual studio" scheme="http://lilei.github.io/tags/visual-studio/"/>
+    
+      <category term="IDE" scheme="http://lilei.github.io/tags/IDE/"/>
+    
+      <category term="插件" scheme="http://lilei.github.io/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+</feed>
