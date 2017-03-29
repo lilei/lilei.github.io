@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lilei.github.io/"/>
-  <updated>2017-03-29T01:43:34.589Z</updated>
+  <updated>2017-03-29T02:06:08.591Z</updated>
   <id>http://lilei.github.io/</id>
   
   <author>
@@ -20,15 +20,13 @@
     <link href="http://lilei.github.io/2017/03/29/%E6%97%A5%E5%B8%B8%E6%AD%A3%E5%88%99%E7%94%A8%E6%B3%95%E6%80%BB%E7%BB%93/"/>
     <id>http://lilei.github.io/2017/03/29/日常正则用法总结/</id>
     <published>2017-03-29T01:38:56.000Z</published>
-    <updated>2017-03-29T01:43:34.589Z</updated>
+    <updated>2017-03-29T02:06:08.591Z</updated>
     
     <summary type="html">
     
       &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;visual studio 中，大量printf没有换行&lt;/p&gt;
-&lt;p&gt; 用VS的正则查找替换功能&lt;br&gt; 查找内容：printf(“{.*[^\n]}”&lt;br&gt; 替换为：    printf(“\1\n”&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;制表符替换为4
+&lt;p&gt; 用VS的正则查找替换功能&lt;br&gt; 查找内容 :   &lt;code&gt;printf\(&amp;quot;{.*[^\\n]}&amp;quot;&lt;/code&gt;&lt;br&gt; 替换为   :   &lt;code&gt;p
     
     </summary>
     
